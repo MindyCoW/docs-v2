@@ -7,6 +7,7 @@ Areas that are welcoming to builders include:
 - [Programmatic orders](../programmatic)
     - [Composable CoW](composable-cow)
 - [Solvers](../../solve/create)
+- Hooks (TODO link)
 
 ## Built on CoW Protocol
 
